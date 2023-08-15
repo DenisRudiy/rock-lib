@@ -1,0 +1,12 @@
+.header {
+  @apply flex items-center;
+  padding: 0px 8vw 0px 8vw;
+  background-color: #363131;
+  color: white;
+  height: 120px;
+
+  img {
+    width: 320px;
+    height: auto;
+  }
+}
